@@ -203,9 +203,13 @@ footer {
   }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 400px) {
   .card {
     max-width: 20.5rem;
+  }
+
+  .card-content {
+    padding: 2rem 1.6rem;
   }
 
   .illustration-hero {
@@ -248,10 +252,6 @@ footer {
     background-color: var(--bg-color);
     background-size: contain;
     padding: 2rem 1.5rem;
-  }
-
-  .card-content {
-    padding: 2rem 1.6rem;
   }
 
   footer {

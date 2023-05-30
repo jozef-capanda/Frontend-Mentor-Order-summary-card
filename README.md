@@ -20,7 +20,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [Open in New Tab (Ctrl + click)](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-flexwrap-uIMoeXEBvW)
-- Live Site URL: [Open in New Tab (Ctrl + click)](https://jozef-capanda.github.io/Frontend-Mentor-3-column-preview/)
+- Live Site URL: [Open in New Tab (Ctrl + click)](https://jozef-capanda.github.io/Frontend-Mentor-Order-summary-card/)
 
 ## My process
 
